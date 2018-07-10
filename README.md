@@ -25,8 +25,8 @@ If a particular file deviates from normal in many of these measures, you can be 
 
 Data files
 
-ab-duplicates100-2016-03-02.tar.bz2 (134MB)
-ab-duplicates1000-2016-03-02.tar.bz2 (825MB)
+http://www.dtic.upf.edu/~aporter/amplab/2017/ab-duplicates100-2016-03-02.tar.bz2
+http://www.dtic.upf.edu/~aporter/amplab/2017/ab-duplicates1000-2016-03-02.tar.bz2
 
 Contains json files with AcousticBrainz features for files which have been submitted multiple times. The filename of these files contains the MusicBrainz id of the submission, and an ordinal number representing the submission order to AcousticBrainz.
 
